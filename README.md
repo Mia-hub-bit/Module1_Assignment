@@ -10,9 +10,9 @@ Executing program Open your command prompt or terminal.
 
 Navigate to the directory containing the file.
 
-Run the program using the following command:
+Run the program using the following command: python grade_calculator.py
 
-python grade_calculator.py
+Links: https://youtu.be/UPRtvxomxqU
 
 Authors [Caramia Ukpo]
 
